@@ -68,7 +68,7 @@
 
   /* ---------- настройки / settings ---------- */
   var cfg = (typeof CONFIG !== "undefined") ? CONFIG : {
-    name: "Ивайло", nickname: "Слънчопан", birthYear: 2019,
+    name: "Ивайло", nickname: "Слънчопан", birthYear: 2018,
     birthMonth: 9, birthDay: 26, startYear: 2026, ageLimit: 100, previewUnlockAll: false
   };
   var wishes = (typeof WISHES !== "undefined") ? WISHES : {};
